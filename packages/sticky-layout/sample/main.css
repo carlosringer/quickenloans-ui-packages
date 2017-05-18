@@ -1,0 +1,23 @@
+.l-sticky {
+  height: auto;
+  left: 0;
+  width: 100%;
+  z-index: 199; }
+  @media (min-height: 25rem) {
+    .l-sticky {
+      position: fixed; } }
+
+.l-sticky--top {
+  top: 0; }
+
+.l-sticky--bottom {
+  bottom: 0; }
+
+body {
+  padding: 2rem; }
+
+button {
+  padding: 1rem 2rem; }
+
+.js-sticky-footer {
+  background-color: #e2e2e2; }

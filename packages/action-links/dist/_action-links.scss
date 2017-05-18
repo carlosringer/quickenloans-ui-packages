@@ -1,0 +1,12 @@
+.action-links__item {
+  display: inline-block;
+  margin: 1rem;
+}
+
+.action-links__item:first-child {
+  margin-left: 0;
+}
+
+.action-links__item:last-child {
+  margin-right: 0;
+}

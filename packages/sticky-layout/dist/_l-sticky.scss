@@ -1,0 +1,18 @@
+.l-sticky {
+  height: auto;
+  left: 0;
+  width: 100%;
+  z-index: 199;
+
+  @media (min-height: 25rem) {
+    position: fixed;
+  }
+}
+
+.l-sticky--top {
+  top: 0;
+}
+
+.l-sticky--bottom {
+  bottom: 0;
+}

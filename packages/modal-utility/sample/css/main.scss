@@ -1,0 +1,15 @@
+%clearfix:after {
+  clear: both;
+  content: '';
+  display: table;
+}
+
+@import '../../dist/modal-utility';
+
+body {
+  padding: 2rem;
+}
+
+button {
+  padding: 1rem 2rem;
+}
