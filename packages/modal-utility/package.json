@@ -1,5 +1,5 @@
 {
-  "name": "modal-utility",
+  "name": "@quickenloans/modal-utility",
   "version": "1.0.0",
   "description": "A set of functions that allow creating accessible modals.",
   "main": "dist/modal-utility.js",

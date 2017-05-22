@@ -1,5 +1,5 @@
 {
-  "name": "scroll-test",
+  "name": "@quickenloans/scroll-test",
   "version": "1.0.0",
   "description": "Provides a function to allow testing whether a user has scrolled past an element or to the bottom of the viewport.",
   "main": "dist/scroll-test.js",

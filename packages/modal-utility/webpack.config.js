@@ -4,7 +4,7 @@ const fs = require('fs');
 
 module.exports = {
     entry: {
-        app: ['./sample/js/main.js']
+        app: ['./sample/js/sample.js']
     },
     output: {
         path: __dirname + "/sample",
