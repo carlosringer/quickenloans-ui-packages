@@ -1,6 +1,6 @@
 {
   "name": "@quickenloans/sticky-layout",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.1",
   "description": "Attaches an element to the top or bottom of the viewport, fixed in place, independent of scroll.",
   "main": "dist/sticky-layout.js",
   "directories": {
