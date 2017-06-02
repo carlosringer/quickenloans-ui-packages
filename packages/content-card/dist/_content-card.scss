@@ -1,6 +1,6 @@
 .content-card {
-    background: #ffffff;
-    border: .1875rem solid #e5e5e5;
+    background: $white;
+    border: .1875rem solid $gray-light;
     border-radius: 0.25rem;
     padding: 0;
 }
@@ -8,6 +8,11 @@
 .content-card__header {
     padding-top: 0.325rem;
     margin-bottom: 0.325rem;
+    background-color: $blue-medium;
+}
+
+.content-card__header-text {
+    color: $white;
 }
 
 .content-card__body {
