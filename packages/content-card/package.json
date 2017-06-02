@@ -1,6 +1,6 @@
 {
   "name": "content-card",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "description": "A basic card pattern with areas for header, body, and footer content",
   "main": "dist/_content-card.scss",
   "dependencies": {},
