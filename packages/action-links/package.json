@@ -1,6 +1,6 @@
 {
   "name": "action-links",
-  "version": "1.0.0-alpha.3",
+  "version": "1.0.0-alpha.4",
   "description": "A pattern where the confirm (move-forward) is positioned next to a cancel (stop or go back).",
   "main": "dist/_action-links.scss",
   "dependencies": {},

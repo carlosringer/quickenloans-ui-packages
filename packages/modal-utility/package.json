@@ -1,6 +1,6 @@
 {
   "name": "modal-utility",
-  "version": "1.0.0-alpha.3",
+  "version": "1.0.0-alpha.4",
   "description": "A set of functions that allow creating accessible modals.",
   "main": "dist/modal-utility.js",
   "directories": {
