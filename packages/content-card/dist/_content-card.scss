@@ -1,24 +1,30 @@
 .content-card {
     background: $white;
-    border: .1875rem solid $gray-light;
     border-radius: 0.25rem;
     padding: 0;
 }
 
 .content-card__header {
-    padding-top: 0.325rem;
-    margin-bottom: 0.325rem;
+    padding: 0.5rem 1rem;
     background-color: $blue-medium;
 }
 
 .content-card__header-text {
     color: $white;
+    margin: 0;
 }
 
-.content-card__body {
-    margin-bottom: 0.325rem;
+.content-card__content-wrapper {
+    border: 1px solid $gray-light;
+    border-top: 0;
+    padding-top: 1rem;
+}
+
+.content-card__body{
+    margin: 0 1rem 0.325rem 1rem;
 }
 
 .content-card__footer {
     padding-top: 0.325em;
     margin-bottom: 0.325rem;
+}

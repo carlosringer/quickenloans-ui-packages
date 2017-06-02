@@ -19,6 +19,11 @@ $gray-light: #e5e5e5;
 
 @import "../../dist/content-card";
 
+// override
+.content-card {
+  margin-bottom: 1rem;
+}
+
 body {
   padding: 5rem;
   color: #333;
