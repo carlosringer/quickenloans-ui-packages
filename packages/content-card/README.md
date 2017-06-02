@@ -13,7 +13,9 @@ You just need to include this file in your build:
 Then you can set up your markup like:
 
     <div class="content-card">
-        <div class="content-card__header"></div>
+        <div class="content-card__header">
+            <h1 class="content-card__header-text"></h1>
+        </div>
         <div class="content-card__body"></div>
         <div class="content-card__footer"></div>
     </div>
