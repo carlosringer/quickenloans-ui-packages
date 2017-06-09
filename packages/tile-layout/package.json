@@ -1,8 +1,8 @@
 {
-  "name": "content-block",
+  "name": "tile-layout",
   "version": "1.0.0-alpha.4",
-  "description": "A pattern for formatting html content into 3x1 and 2x1 blocks",
-  "main": "dist/_content-block.scss",
+  "description": "A layout pattern for formatting html content into 3x1 and 2x1 tiles",
+  "main": "dist/_tile-layout.scss",
   "dependencies": {},
   "devDependencies": {
     "node-sass": "^4.5.2"

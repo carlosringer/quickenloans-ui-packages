@@ -1,9 +1,9 @@
-.col-1-2 {
+.tile-layout--col-1-2 {
     float: left;
     width: 50%;
 }
 
-.col-1-3 {
+.tile-layout--col-1-3 {
     float: left;
     width: 33.3%;
 }
