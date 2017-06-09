@@ -1,0 +1,21 @@
+$tl-namespace: 'tile-layout';
+
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.#{$tl-namespace} {
+    @extend %clearfix;
+}
+
+.#{$tl-namespace}--col-1-2 {
+    float: left;
+    width: 50%;
+}
+
+.#{$tl-namespace}--col-1-3 {
+    float: left;
+    width: 33.3%;
+}

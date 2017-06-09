@@ -1,0 +1,16 @@
+{
+  "name": "tile-layout",
+  "version": "1.0.0-alpha.4",
+  "description": "A layout pattern for formatting html content into 3x1 and 2x1 tiles",
+  "main": "dist/_tile-layout.scss",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.5.2"
+  },
+  "scripts": {
+    "build-sample": "node_modules/.bin/node-sass sample/sample-src/main.scss -o sample/",
+    "test": "open sample/index.html"
+  },
+  "author": "carlosringer@gmail.com",
+  "license": "MIT"
+}
