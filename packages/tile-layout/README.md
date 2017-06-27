@@ -12,13 +12,13 @@ You just need to include this file in your build:
 
 Then you can set up your markup like:
 
-<section class="tile-layout">
+<section class="l-tile-layout">
     <div class="tile-layout--col-1-2"></div>
     <div class="tile-layout--col-1-2"></div>
 </section>
 
-<section class="tile-layout">
-    <div class="tile-layout--col-1-3"></div>
-    <div class="tile-layout--col-1-3"></div>
-    <div class="tile-layout--col-1-3"></div>
+<section class="l-tile-layout">
+    <div class="l-tile-layout--col-1-3"></div>
+    <div class="l-tile-layout--col-1-3"></div>
+    <div class="l-tile-layout--col-1-3"></div>
 </section>
